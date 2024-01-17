@@ -2,7 +2,7 @@
 using System.Diagnostics;
 
 
-string path = @"C:\Users\alber\Desktop\Nuevo Documento de texto.txt"; //@"C:\Windows\System32\drivers\etc\hosts";
+string path = @"C:\Windows\System32\drivers\etc\hosts";
 
 main();
 
